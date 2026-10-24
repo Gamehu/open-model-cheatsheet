@@ -313,9 +313,6 @@ Note: H company simultaneously released Holotron4 Nano (the Holo4 training recip
 | 28 | DavidAU/Qwen3.8-27B-TURBO-…-GGUF | new | new | 2018 / 1679145 | Uncensored GGUF derivative, not listed |
 | 29 | lodestones/MOSS-Image-SFT-8-steps-dmd | 24 | ↓5 | 207 / 79664 | Derivative, not listed separately |
 | 30 | Comfy-Org/Fibo-2.0 | new | new | 151 / 70682 | ComfyUI packaging, not listed separately |
-| 28 | Qwen/Qwen3.8-Flash-Next | 28 | → | 6411 / 2706809 | Official |
-| 29 | unsloth/flint-GGUF | new | new | 151 / 7401 | Third-party GGUF quant of flint, not listed separately |
-| 30 | LiquidAI/LFM2.5-24B-A2B | 19 | ↓11 | 562 / 17637 | Official, listed |
 
 **Dropped out of the top 30:** reflection/Beam-1.0-501B-A23B (yesterday #22, official, listed), Qwen/Qwen3.8-Flash-Next (yesterday #28), LiquidAI/LFM2.5-24B-A2B (yesterday #30, official, listed).
 
