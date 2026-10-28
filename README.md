@@ -1,6 +1,6 @@
 # Open Model Cheatsheet
 
-> Version v1.32 · Data as of 2026-10-27 · Covers 106 models with verifiable sources
+> Version v1.33 · Data as of 2026-10-28 · Covers 108 models with verifiable sources
 
 A daily-updated, evidence-annotated selection guide for **open-weight models** — what each model is good at, how it scores, how big it is, and whether you can run it locally.
 
@@ -22,7 +22,7 @@ Every performance number is tagged with its provenance:
 - **(third-party)** — independent benchmarks or media (Artificial Analysis, LMArena, etc.).
 - **unverified** — conflicting or unconfirmed information. Verify before citing.
 
-Scope note: this covers 106 representative models/versions with verifiable sources — not an exhaustive catalog of every model on earth. Models are added and corrected on a rolling basis.
+Scope note: this covers 108 representative models/versions with verifiable sources — not an exhaustive catalog of every model on earth. Models are added and corrected on a rolling basis.
 
 ## Update cadence
 
@@ -34,4 +34,4 @@ The cheatsheet text is published under **CC BY 4.0** — share and adapt freely 
 
 ---
 
-*Maintained daily. Last sync: 2026-10-27.*
+*Maintained daily. Last sync: 2026-10-28.*
