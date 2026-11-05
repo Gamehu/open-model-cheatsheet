@@ -1,6 +1,6 @@
 # Open Model Cheatsheet
 
-> Version v1.40 · Data as of 2026-11-04 · Covers 116 models with verifiable sources
+> Version v1.41 · Data as of 2026-11-05 · Covers 118 models with verifiable sources
 
 A daily-updated, evidence-annotated selection guide for **open-weight models** — what each model is good at, how it scores, how big it is, and whether you can run it locally.
 
